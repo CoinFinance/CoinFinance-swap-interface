@@ -6,7 +6,7 @@
 
 ##
 
-This repo is responsible for the **exchange/pool** interfaace of the AMM: [exchange.pancakeswap.finance](https://exchange.pancakeswap.finance/)
+This repo is responsible for the **exchange/pool** interfaace of the AMM: [exchange.coinfinance.cf](https://exchange.coinfinance.cf/)
 
 ## Run locally
 
@@ -106,12 +106,12 @@ The translation component can handle variables being passed in from Crowdin, wit
 
 It will only work if there is only **one** variable passed in, and if that variable within Crowdin is wrapped in **%** signs, i.e.:
 
-Translation in crowdin: `%asset% Earned` [link](https://crowdin.com/translate/pancakeswap/8/en-de#330)
+Translation in crowdin: `%asset% Earned` [link](https://crowdin.com/translate/coinfinance/8/en-de#330)
 
 Code:
 
 ```js
-<Label text={TranslateString(330, 'CAKE Earned')} />
+<Label text={TranslateString(330, 'CNF Earned')} />
 ```
 
 ---
