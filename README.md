@@ -1,8 +1,8 @@
-![pancakeswap](https://pancakeswap.finance/logo.png)
+![CoinFinance](https://coinFinance.cf/logo.png)
 
 ## Intro
 
-[PancakeSwap](https://pancakeswap.finance/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
+[CoinFinance](https://coinfinance.cf/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
 
 ##
 
