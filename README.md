@@ -1,1 +1,1 @@
-# Pancake Interface
+# CoinFinance Interface
