@@ -1,4 +1,4 @@
-![CoinFinance](https://coinFinance.cf/logo.png)
+![CoinFinance](https://coinfinance.cf/)
 
 ## Intro
 
