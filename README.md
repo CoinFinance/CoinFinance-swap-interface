@@ -6,7 +6,7 @@
 
 ##
 
-This repo is responsible for the **exchange/pool** interfaace of the AMM: [exchange.coinfinance.cf](https://exchange.coinfinance.cf/)
+This repo is responsible for the **exchange/pool** interfaace of the AMM: [coinfinance.cf](https://coinfinance.cf/)
 
 ## Run locally
 
